@@ -15,6 +15,18 @@
 git clone git@github.com:DrOptix/fem-angular-fundamentals
 ```
 
+- Install Angular CLI, you may need to `sudo` this one.
+
+```bash
+npm install -g @angular/cli
+```
+
+- Make sure all Node modules are available
+
+```bash
+npm i
+```
+
 - From the command line, in the root directory (angular-fundamentals-lessons) run the following command:
 
 ```bash
